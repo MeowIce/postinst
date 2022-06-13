@@ -1,7 +1,7 @@
 # PostInst - Post-Installation Scripts for Ubuntu and its derivatives.
 ## About 
 
-I made this script to automatically install software and config my system. Unlike [snwh's scripts](https://github.com/snwh/ubuntu-post-install), my script is much more lighter and easier to use. You can use this to install and configure or maintain your Ubuntu install.
+I made this script to automatically install software and config your system. Unlike [snwh's scripts](https://github.com/snwh/ubuntu-post-install), my script is much more lighter and easier to use. You can use this to install and configure or maintain your Ubuntu install.
 This script is freeware. You can redistribute it and/or mofity it the terms of the [GNU General Public License](https://github.com/MeowIce/postinst/blob/main/LICENSE). It came WITHOUT ANY WARRANTY !
 
 ## What does it do ?
