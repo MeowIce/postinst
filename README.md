@@ -32,3 +32,5 @@ To use this scriptset, simply run this command in the source folder:
 ```
 ./postinst.sh
 ```
+## Screenshot
+![image](https://user-images.githubusercontent.com/70711319/204257150-add2eb24-2cc3-4c8b-98be-de074169d07d.png)
